@@ -55,6 +55,7 @@ I am a third year undergraduate student studying Computer Science at Columbia Un
 <img align="left" alt="SQLAlchemy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"/>
 
 <br />
+<br>
 
 #
 
