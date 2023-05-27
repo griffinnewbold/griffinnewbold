@@ -62,6 +62,8 @@ I am a third year undergraduate student studying Computer Science at Columbia Un
 ### 📊 GitHub Statistics 📊
 
 ![Griffin's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffinnewbold&show_icons=true&theme=cobalt)
+![Griffin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=griffinnewbold&show_icons=true&locale=en&layout=compact&theme=cobalt)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=griffinnewbold&&theme=cobalt)
 
 #
 
@@ -69,5 +71,5 @@ I am a third year undergraduate student studying Computer Science at Columbia Un
  <summary><h3> 👨🏼‍💻🤖 Griffin's Coding Journey 🤖👨🏼‍💻 </h3></summary>
     I started programming in high school, starting with HTML, CSS, and JavaScript and ending with Java from there I was hooked. I took all possible coding courses in my high school and a solid percentage of the ones offered at my local community college prior to enrolling as an engineering student at Columbia University and there I continue my programming journey as well as develop personal projects on the side whenever I have free time between my teaching and my studies along with my other hobbies.
 
-[website]: https://griffinnewbold.github.io
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
