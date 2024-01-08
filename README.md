@@ -1,6 +1,6 @@
 # 👨🏼‍💻🤖 Griffin Newbold 🤖👨🏼‍💻
 
-**`Student, Teaching Assistant, and Aspiring Software Developer`**
+**`Student, Teaching Assistant, and Software Engineer`**
 
 I am a third year undergraduate student studying Computer Science at Columbia University contributing to the digital world one line of code at a time. My Coding projects are built using a variety of tools and from the ground up whenever I can help it. All my teaching materials are built from scratch as well. 
 
