@@ -2,7 +2,7 @@
 
 **`Student, Teaching Assistant, and Software Engineer`**
 
-I am a third year undergraduate student studying Computer Science at Columbia University contributing to the digital world one line of code at a time. My Coding projects are built using a variety of tools and from the ground up whenever I can help it. All my teaching materials are built from scratch as well. 
+I am a fourth year undergraduate student studying Computer Science at Columbia University contributing to the digital world one line of code at a time. My Coding projects are built using a variety of tools and from the ground up whenever I can help it. All my teaching materials are built from scratch as well. 
 
    <p align="left">
       <a href="https://github.com/griffinnewbold?tab=followers">
